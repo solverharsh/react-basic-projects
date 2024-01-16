@@ -1,0 +1,22 @@
+.appName {
+  text-align: center;
+  margin: 10px;
+  margin-bottom: 30px;
+  font-weight: 700;
+  font-size: 40px;
+}
+
+input {
+  width: 100%;
+}
+
+.item-container {
+  text-align: left;
+}
+
+.my-row {
+  margin: 10px 5px;
+}
+.my-button {
+  min-width: 100px;
+}
