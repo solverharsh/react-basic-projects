@@ -1,0 +1,11 @@
+.container {
+  width: 40%;
+  min-width: 500px;
+  border: 2px solid black;
+  border-radius: 5px;
+  margin: 15px;
+  /* margin-left: 33%; */
+  padding: 10px;
+  font-weight: 700;
+  background-color: rgb(118, 236, 236);
+}
